@@ -51,3 +51,7 @@ rebel.xml
 application-my.yaml
 
 /yudao-ui-app/unpackage/
+
+#####################################
+# 敏感配置
+application-local.yaml
